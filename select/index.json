@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "29 Intro",
+  "base_artist": "J． コール",
+  "createdAt": "2026-02-18T09:42:28.860107Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "29",
+      "artist": "Carly Pearce",
+      "has_synced": true,
+      "path": "select/01_29_Carly_Pearce.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "11 Months and 29 Days",
+      "artist": "Johnny Paycheck",
+      "has_synced": true,
+      "path": "select/02_11_Months_and_29_Days_Johnny_Paycheck.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "11 Months And 29 Days (Album Version)",
+      "artist": "Johnny Paycheck",
+      "has_synced": true,
+      "path": "select/03_11_Months_And_29_Days_(Album_Version)_Johnny_Paycheck.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "29 #Strafford APTS",
+      "artist": "Bon Iver",
+      "has_synced": true,
+      "path": "select/04_29__Strafford_APTS_Bon_Iver.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Section 29 [Light to Follow]",
+      "artist": "The Polyphonic Spree",
+      "has_synced": false,
+      "path": "select/05_Section_29_[Light_to_Follow]_The_Polyphonic_Spree.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "If I Can Dream (June 29, 1968 Version) [Live]",
+      "artist": "Elvis Presley",
+      "has_synced": false,
+      "path": "select/06_If_I_Can_Dream_(June_29,_1968_Version)_[Live]_Elvis_Presley.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Jealous Guy (Take 29)",
+      "artist": "John Lennon",
+      "has_synced": true,
+      "path": "select/07_Jealous_Guy_(Take_29)_John_Lennon.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "produk 29 [101]",
+      "artist": "Aphex Twin",
+      "has_synced": true,
+      "path": "select/08_produk_29_[101]_Aphex_Twin.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Produk 29",
+      "artist": "Aphex Twin",
+      "has_synced": false,
+      "path": "select/09_Produk_29_Aphex_Twin.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "From Me to You - Live On Saturday Club Show, June 29, 1963",
+      "artist": "The Beatles",
+      "has_synced": false,
+      "path": "select/10_From_Me_to_You_-_Live_On_Saturday_Club_Show,_June_29,_1963_The_Beatles.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Jealous Guy (Take 29 / Raw Studio Mix)",
+      "artist": "John Lennon",
+      "has_synced": true,
+      "path": "select/11_Jealous_Guy_(Take_29___Raw_Studio_Mix)_John_Lennon.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Cell-29",
+      "artist": "Golden Earring",
+      "has_synced": false,
+      "path": "select/12_Cell-29_Golden_Earring.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Money (That's What I Want) - Live On Saturday Club Show, June 29, 1963",
+      "artist": "The Beatles",
+      "has_synced": false,
+      "path": "select/13_Money_(That's_What_I_Want)_-_Live_On_Saturday_Club_Show,_June_29,_1963_The_Beatles.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Till There Was You - Live On Saturday Club Show, June 29, 1963",
+      "artist": "The Beatles",
+      "has_synced": false,
+      "path": "select/14_Till_There_Was_You_-_Live_On_Saturday_Club_Show,_June_29,_1963_The_Beatles.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "8 / 29 / 91",
+      "artist": "Foxes In Fiction",
+      "has_synced": false,
+      "path": "select/15_8___29___91_Foxes_In_Fiction.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "8 \u0000 29 \u0000 91",
+      "artist": "Foxes In Fiction",
+      "has_synced": false,
+      "path": "select/16_8_\u0000_29_\u0000_91_Foxes_In_Fiction.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Love in a Void (John Peel session 29.11.77)",
+      "artist": "Siouxsie & The Banshees",
+      "has_synced": true,
+      "path": "select/17_Love_in_a_Void_(John_Peel_session_29.11.77)_Siouxsie_&_The_Banshees.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "29 Intro",
+      "artist": "J.Cole",
+      "has_synced": false,
+      "path": "select/pl_01_29_Intro_J.Cole.txt"
+    }
+  ]
+}
